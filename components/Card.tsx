@@ -56,12 +56,13 @@ const Card: React.FC<CardProps> = ({ title, description, color, iconColor }) => 
       lineHeight: 20, 
     },
     iconContainer: {
-      width: 40, 
-      height: 40, 
+      marginTop:35,
+      width: 35, 
+      height: 35, 
       borderRadius: 10,
       alignItems: 'center',
       justifyContent: 'center',
     },
   });
   
-  export default Card;
+  export default Card;

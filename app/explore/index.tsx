@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet, FlatList } from 'react-native';
-import Card from '../../components/Card';
+import Card from '@/components/Card'
 import { data } from '../../constants/data';
 
 const ExploreScreen = () => {
