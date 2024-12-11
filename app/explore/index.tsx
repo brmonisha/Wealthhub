@@ -39,6 +39,7 @@ const styles = StyleSheet.create({
     fontWeight: '600',
     color: '#000',
     marginBottom: 8,
+     fontFamily:'CharmanSerif-Black'
   },
   headerDescription: {
     fontSize: 14,

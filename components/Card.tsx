@@ -49,11 +49,13 @@ const Card: React.FC<CardProps> = ({ title, description, color, iconColor }) => 
       fontWeight: '600',
       color: '#000',
       marginBottom: 8, 
+      fontFamily:'CharmanSerif-Black',
     },
     cardDescription: {
       fontSize: 14,
       color: '#6B7280',
       lineHeight: 20, 
+      
     },
     iconContainer: {
       marginTop:35,
